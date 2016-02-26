@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  release_date: 2016-02-25 18:14:57
+  album_id: 1
+  lyrics: MyText
+
+two:
+  name: MyString
+  release_date: 2016-02-25 18:14:57
+  album_id: 1
+  lyrics: MyText
